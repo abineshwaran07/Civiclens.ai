@@ -1,0 +1,290 @@
+[
+  {
+    "id": "pm-kisan",
+    "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "name_ta": "பிரதமர் கிசான் சம்மான் நிதி",
+    "department": "Ministry of Agriculture & Farmers Welfare",
+    "level": "Central",
+    "category": "Agriculture",
+    "url": "https://pmkisan.gov.in",
+    "sections": {
+      "overview": "Income support scheme for farmer families. The Government of India transfers money directly to the bank accounts of eligible landholding farmer families.",
+      "benefits": "Rs 6,000 per year, paid in three equal instalments of Rs 2,000 every four months, directly into the beneficiary's bank account (Direct Benefit Transfer).",
+      "eligibility": "Landholding farmer families as per land records. Not eligible: institutional landholders, current or former holders of constitutional posts, serving or retired government employees (except multi-tasking, Class IV and Group D staff), income tax payers, retired pensioners drawing Rs 10,000 or more per month, and professionals such as doctors, engineers and lawyers.",
+      "how_to_apply": "Register on the PM-KISAN portal (pmkisan.gov.in) using 'New Farmer Registration', or visit the nearest Common Service Centre (CSC) or your village agriculture officer. Complete e-KYC on the portal or at a CSC to keep receiving instalments.",
+      "documents": "Aadhaar number, bank account linked with Aadhaar, land ownership records (patta and chitta), mobile number."
+    }
+  },
+  {
+    "id": "pm-jay",
+    "name": "Ayushman Bharat PM-JAY",
+    "name_ta": "ஆயுஷ்மான் பாரத் பிரதம மந்திரி ஜன் ஆரோக்ய யோஜனா",
+    "department": "National Health Authority",
+    "level": "Central",
+    "category": "Health",
+    "url": "https://pmjay.gov.in",
+    "sections": {
+      "overview": "Public health insurance for hospital treatment at empanelled government and private hospitals across India. In Tamil Nadu it works together with the Chief Minister's Comprehensive Health Insurance Scheme.",
+      "benefits": "Cashless treatment cover of up to Rs 5 lakh per family per year for secondary and tertiary hospitalisation.",
+      "eligibility": "Families identified through the Socio-Economic Caste Census (SECC) deprivation and occupation criteria. Since 2024, all citizens aged 70 and above are eligible for cover irrespective of income (Ayushman Vay Vandana).",
+      "how_to_apply": "Check eligibility at mera.pmjay.gov.in or call the helpline 14555. Visit an empanelled hospital's Ayushman Mitra desk or a Common Service Centre with your documents to get the Ayushman card.",
+      "documents": "Aadhaar card, ration card or other family ID, mobile number."
+    }
+  },
+  {
+    "id": "cmchis",
+    "name": "Chief Minister's Comprehensive Health Insurance Scheme (CMCHIS)",
+    "name_ta": "முதலமைச்சரின் விரிவான மருத்துவக் காப்பீட்டுத் திட்டம்",
+    "department": "Government of Tamil Nadu - Health & Family Welfare",
+    "level": "Tamil Nadu",
+    "category": "Health",
+    "url": "https://www.cmchistn.com",
+    "sections": {
+      "overview": "Free health insurance for Tamil Nadu families for treatment of listed diseases and procedures at government and empanelled private hospitals.",
+      "benefits": "Cashless treatment for a large list of surgeries, therapies and procedures, with cover of up to Rs 5 lakh per family per year. The limit may be revised by the government.",
+      "eligibility": "Tamil Nadu families whose annual income is up to Rs 1.2 lakh, as certified by the Village Administrative Officer (VAO), with a Tamil Nadu family card.",
+      "how_to_apply": "Enrol through the CMCHIS enrolment process at your nearest government hospital or taluk office, or check the official CMCHIS website for current enrolment steps.",
+      "documents": "Income certificate from the Village Administrative Officer, family (ration) card, Aadhaar."
+    }
+  },
+  {
+    "id": "magalir-urimai-thogai",
+    "name": "Kalaignar Magalir Urimai Thogai",
+    "name_ta": "கலைஞர் மகளிர் உரிமைத் தொகை",
+    "department": "Government of Tamil Nadu",
+    "level": "Tamil Nadu",
+    "category": "Women & Child",
+    "url": "https://kmut.tn.gov.in",
+    "sections": {
+      "overview": "Monthly financial assistance for women heads of eligible families in Tamil Nadu, launched in September 2023.",
+      "benefits": "Rs 1,000 per month credited to the bank account of the woman head of the family.",
+      "eligibility": "Woman head of a family with a Tamil Nadu family card. The scheme has limits on family income, land holding and electricity consumption, and excludes families of government employees and income tax payers. Check the latest criteria on the official portal.",
+      "how_to_apply": "Apply through the application camps or process announced by the Government of Tamil Nadu, and check your application status on the official portal or at the taluk office.",
+      "documents": "Family (ration) card, Aadhaar, bank passbook, mobile number linked to Aadhaar."
+    }
+  },
+  {
+    "id": "pudhumai-penn",
+    "name": "Pudhumai Penn Scheme",
+    "name_ta": "புதுமைப் பெண் திட்டம்",
+    "department": "Government of Tamil Nadu - Social Welfare",
+    "level": "Tamil Nadu",
+    "category": "Education",
+    "url": "https://pudhumaipenn.tn.gov.in",
+    "sections": {
+      "overview": "Financial support for girls from Tamil Nadu government schools who go on to higher education, to reduce dropouts after Class 12.",
+      "benefits": "Rs 1,000 per month for the duration of the degree, diploma or ITI course, paid into the student's bank account.",
+      "eligibility": "Girl students who studied Classes 6 to 12 in Tamil Nadu government or government-aided schools and are enrolled in a recognised undergraduate degree, diploma, ITI or similar course.",
+      "how_to_apply": "Apply through your college. The college verifies and submits the student's details on the Pudhumai Penn portal.",
+      "documents": "School study certificate, college admission proof, Aadhaar, bank account details."
+    }
+  },
+  {
+    "id": "cm-breakfast",
+    "name": "Chief Minister's Breakfast Scheme",
+    "name_ta": "முதலமைச்சரின் காலை உணவுத் திட்டம்",
+    "department": "Government of Tamil Nadu - School Education",
+    "level": "Tamil Nadu",
+    "category": "Education",
+    "url": "https://www.tn.gov.in",
+    "sections": {
+      "overview": "Free nutritious breakfast served in schools to improve attendance and nutrition of young children.",
+      "benefits": "Free hot breakfast on school days for children in government and government-aided primary schools.",
+      "eligibility": "Students of eligible government and government-aided primary schools in Tamil Nadu. No application is needed.",
+      "how_to_apply": "There is no individual application. Enrolled students receive the meal at school. Parents can raise issues with the headmaster or the local body.",
+      "documents": "None."
+    }
+  },
+  {
+    "id": "naan-mudhalvan",
+    "name": "Naan Mudhalvan",
+    "name_ta": "நான் முதல்வன்",
+    "department": "Government of Tamil Nadu - Skill Development",
+    "level": "Tamil Nadu",
+    "category": "Skills & Employment",
+    "url": "https://www.naanmudhalvan.tn.gov.in",
+    "sections": {
+      "overview": "Skilling programme of the Government of Tamil Nadu that gives students and young people free industry-aligned training and placement support.",
+      "benefits": "Free courses in areas such as IT, engineering and communication skills, delivered with industry partners, plus career guidance and placement support.",
+      "eligibility": "Students in Tamil Nadu colleges and unemployed youth, as per the programme criteria on the portal.",
+      "how_to_apply": "Register on the Naan Mudhalvan portal or through your college coordinator, then enrol in the courses offered.",
+      "documents": "Student or ID proof, Aadhaar, educational certificates."
+    }
+  },
+  {
+    "id": "pmay-g",
+    "name": "PM Awas Yojana - Gramin (PMAY-G)",
+    "name_ta": "பிரதம மந்திரி ஆவாஸ் யோஜனா (கிராமம்)",
+    "department": "Ministry of Rural Development",
+    "level": "Central",
+    "category": "Housing",
+    "url": "https://pmayg.nic.in",
+    "sections": {
+      "overview": "Support for rural families without a pucca house to build one.",
+      "benefits": "Financial assistance of Rs 1.20 lakh in plains areas (Rs 1.30 lakh in hilly and difficult areas) to build a pucca house of at least 25 square metres, with additional support for a toilet and wage employment under MGNREGS.",
+      "eligibility": "Houseless families or families living in kutcha or dilapidated houses, selected from the permanent wait list (Awaas+ / SECC-2011) and verified by the Gram Sabha. Families owning a motorised vehicle or fishing boat, or above the specified income limit, may be excluded.",
+      "how_to_apply": "Selection is from the beneficiary list. Contact your Gram Panchayat or Block Development Office to check whether your name is on the list, or to be surveyed.",
+      "documents": "Aadhaar, bank account, job card (if any), proof of land or site for the house."
+    }
+  },
+  {
+    "id": "pm-ujjwala",
+    "name": "PM Ujjwala Yojana (PMUY)",
+    "name_ta": "பிரதமரின் உஜ்ஜ்வலா திட்டம்",
+    "department": "Ministry of Petroleum & Natural Gas",
+    "level": "Central",
+    "category": "Energy",
+    "url": "https://www.pmuy.gov.in",
+    "sections": {
+      "overview": "Provides LPG connections to women from poor households so that families can cook with clean fuel.",
+      "benefits": "A deposit-free LPG connection in the woman's name, with financial assistance from the Government of India.",
+      "eligibility": "Adult women from poor households (for example BPL families and other listed categories) who do not already have an LPG connection in the household.",
+      "how_to_apply": "Submit the PMUY application form with KYC documents at the nearest LPG distributor, or apply online on the PMUY portal.",
+      "documents": "Aadhaar, ration card or family card, bank account details, passport-size photograph, KYC form."
+    }
+  },
+  {
+    "id": "pmfby",
+    "name": "PM Fasal Bima Yojana (PMFBY)",
+    "name_ta": "பிரதமரின் பயிர்க் காப்பீட்டுத் திட்டம்",
+    "department": "Ministry of Agriculture & Farmers Welfare",
+    "level": "Central",
+    "category": "Agriculture",
+    "url": "https://pmfby.gov.in",
+    "sections": {
+      "overview": "Crop insurance that protects farmers against crop loss from natural calamities, pests and diseases.",
+      "benefits": "Insurance cover for notified crops. Farmers pay only a small premium: 2% for kharif food and oilseed crops, 1.5% for rabi food and oilseed crops, and 5% for annual commercial and horticultural crops. The government pays the rest of the premium.",
+      "eligibility": "All farmers, including sharecroppers and tenant farmers, growing notified crops in notified areas.",
+      "how_to_apply": "Enrol through your bank, a Common Service Centre, an insurance company agent or the National Crop Insurance Portal (pmfby.gov.in) before the cut-off date for the season. Farmers with crop loans are usually covered through their bank.",
+      "documents": "Aadhaar, bank passbook, land records or tenancy agreement, sowing certificate."
+    }
+  },
+  {
+    "id": "atal-pension",
+    "name": "Atal Pension Yojana (APY)",
+    "name_ta": "அடல் ஓய்வூதியத் திட்டம்",
+    "department": "Pension Fund Regulatory and Development Authority (PFRDA)",
+    "level": "Central",
+    "category": "Pension & Social Security",
+    "url": "https://www.pfrda.org.in",
+    "sections": {
+      "overview": "Government-backed pension scheme, especially useful for workers in the unorganised sector.",
+      "benefits": "A guaranteed monthly pension of Rs 1,000 to Rs 5,000 after age 60, depending on how much you contribute and at what age you join.",
+      "eligibility": "Indian citizens aged 18 to 40 with a savings bank account, Aadhaar and a mobile number.",
+      "how_to_apply": "Visit the bank or post office where you have a savings account and fill in the APY registration form. Contributions are auto-debited from the account.",
+      "documents": "Aadhaar, savings bank account, mobile number."
+    }
+  },
+  {
+    "id": "sukanya-samriddhi",
+    "name": "Sukanya Samriddhi Yojana",
+    "name_ta": "செல்வமகள் சேமிப்புத் திட்டம்",
+    "department": "Ministry of Finance / India Post",
+    "level": "Central",
+    "category": "Women & Child",
+    "url": "https://www.indiapost.gov.in",
+    "sections": {
+      "overview": "Small savings scheme to build funds for the education and marriage expenses of a girl child.",
+      "benefits": "Interest at a rate set by the government every quarter and tax benefits under the applicable provisions. Minimum deposit is Rs 250 and maximum is Rs 1.5 lakh in a financial year. Deposits are made for the first 15 years and the account matures 21 years after opening.",
+      "eligibility": "Parent or legal guardian of a girl child below 10 years of age. One account per girl child, and normally a maximum of two girls per family.",
+      "how_to_apply": "Open the account at any post office or authorised bank branch with the required documents.",
+      "documents": "Girl child's birth certificate, parent or guardian's ID and address proof, photographs."
+    }
+  },
+  {
+    "id": "pm-mudra",
+    "name": "PM Mudra Yojana",
+    "name_ta": "பிரதமரின் முத்ரா திட்டம்",
+    "department": "Ministry of Finance",
+    "level": "Central",
+    "category": "Business & Livelihood",
+    "url": "https://www.mudra.org.in",
+    "sections": {
+      "overview": "Collateral-free loans for small and micro businesses that are not corporate or farm enterprises.",
+      "benefits": "Loans up to Rs 10 lakh in three categories: Shishu (up to Rs 50,000), Kishore (Rs 50,000 to Rs 5 lakh) and Tarun (Rs 5 lakh to Rs 10 lakh). Limits may be revised by the government.",
+      "eligibility": "Individuals and small business owners planning or running non-farm income-generating activities such as shops, small manufacturing and services.",
+      "how_to_apply": "Apply at any bank, NBFC or microfinance institution, or through the Udyamimitra portal, with a simple business plan.",
+      "documents": "ID and address proof, business proof or plan, bank statements, photographs."
+    }
+  },
+  {
+    "id": "ignoaps",
+    "name": "Indira Gandhi National Old Age Pension Scheme (IGNOAPS)",
+    "name_ta": "இந்திரா காந்தி தேசிய முதியோர் ஓய்வூதியத் திட்டம்",
+    "department": "Ministry of Rural Development (NSAP)",
+    "level": "Central",
+    "category": "Pension & Social Security",
+    "url": "https://nsap.nic.in",
+    "sections": {
+      "overview": "Monthly pension for elderly people from poor households under the National Social Assistance Programme.",
+      "benefits": "Central assistance of Rs 200 per month for ages 60 to 79 and Rs 500 per month for ages 80 and above. State governments, including Tamil Nadu, add their own top-up under their own old age pension schemes.",
+      "eligibility": "Persons aged 60 or above living below the poverty line, as identified by the state.",
+      "how_to_apply": "Apply at your taluk office, Block Development Office or municipality or panchayat office. Revenue officials verify the application.",
+      "documents": "Age proof, Aadhaar, ration card, bank account, income or BPL proof, photograph."
+    }
+  },
+  {
+    "id": "tn-esevai",
+    "name": "e-Sevai certificates (community, income, nativity)",
+    "name_ta": "இ-சேவை – சாதி, வருமானம், இருப்பிடச் சான்றிதழ்கள்",
+    "department": "Tamil Nadu e-Governance Agency",
+    "level": "Tamil Nadu",
+    "category": "Certificates & Services",
+    "url": "https://www.tnesevai.tn.gov.in",
+    "sections": {
+      "overview": "Tamil Nadu's e-Sevai portal and centres let residents apply online for common government certificates such as community, income and nativity certificates.",
+      "benefits": "Apply without repeated visits to the office and download the certificate online after it is issued.",
+      "eligibility": "Any Tamil Nadu resident who meets the requirement for the specific certificate.",
+      "how_to_apply": "Register on the e-Sevai portal (tnesevai.tn.gov.in), choose the certificate service, upload documents and pay the fee if any, or visit the nearest e-Sevai centre. Track the application with the application number.",
+      "documents": "Aadhaar, family (ration) card, proof of address, and supporting documents for the certificate you need (for example a school certificate or a parent's community certificate)."
+    }
+  },
+  {
+    "id": "tnpds-family-card",
+    "name": "Family card (ration card) services - TNPDS",
+    "name_ta": "குடும்ப அட்டை (ரேஷன் கார்டு) சேவைகள்",
+    "department": "Tamil Nadu Civil Supplies & Consumer Protection",
+    "level": "Tamil Nadu",
+    "category": "Food & Civil Supplies",
+    "url": "https://www.tnpds.gov.in",
+    "sections": {
+      "overview": "Apply for a new family card and request changes such as adding or removing members, address change or mobile number update through the TNPDS portal.",
+      "benefits": "A family card gives access to subsidised food grains and other items at fair price (ration) shops and is used as proof for many welfare schemes.",
+      "eligibility": "Tamil Nadu residents who do not already hold a card and are not listed in another card.",
+      "how_to_apply": "Log in to tnpds.gov.in, choose the family card service you need and submit the application with documents, or visit the local taluk supply office. Track the status with the application reference number.",
+      "documents": "Aadhaar of the family members, proof of residence, gas connection details and other documents as listed on the portal."
+    }
+  },
+  {
+    "id": "aadhaar-update",
+    "name": "Aadhaar update services",
+    "name_ta": "ஆதார் புதுப்பிப்பு சேவைகள்",
+    "department": "UIDAI",
+    "level": "Central",
+    "category": "Identity & Documents",
+    "url": "https://myaadhaar.uidai.gov.in",
+    "sections": {
+      "overview": "Update the demographic details (address, name, date of birth, mobile number) or biometrics in your Aadhaar.",
+      "benefits": "Correct Aadhaar details so that Direct Benefit Transfer payments, e-KYC and scheme applications work without rejection.",
+      "eligibility": "Any Aadhaar holder. Biometric updates and some changes need an in-person visit.",
+      "how_to_apply": "Address can be updated online at myaadhaar.uidai.gov.in with a valid document. For other changes, visit the nearest Aadhaar enrolment or update centre and book an appointment online.",
+      "documents": "Valid proof of identity and address from the UIDAI list of accepted documents."
+    }
+  },
+  {
+    "id": "cpgrams",
+    "name": "Filing a public grievance (CPGRAMS)",
+    "name_ta": "பொது குறைதீர்ப்பு – CPGRAMS",
+    "department": "Department of Administrative Reforms and Public Grievances",
+    "level": "Central",
+    "category": "Grievance Redressal",
+    "url": "https://pgportal.gov.in",
+    "sections": {
+      "overview": "CPGRAMS is the Government of India's online platform to lodge grievances about central government ministries, departments and organisations.",
+      "benefits": "Every complaint gets a registration number, is routed to the concerned officer and can be tracked online until it is closed. You can give feedback or appeal against the reply.",
+      "eligibility": "Anyone can submit a grievance about the service delivery of central government bodies. State-level issues, for example municipal water supply, local roads or state ration shops, may need to go to the state grievance channel or the District Collectorate.",
+      "how_to_apply": "Go to pgportal.gov.in, register with your mobile number, choose the ministry or department, describe the issue, attach documents and submit.",
+      "documents": "No mandatory documents. Attach supporting papers where available."
+    }
+  }
+]
